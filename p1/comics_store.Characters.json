@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcf2"
+  },
+  "name": "Superman",
+  "powers": [
+    "flight",
+    "super strength",
+    "x-ray vision"
+  ],
+  "weaknesses": [
+    "kryptonite"
+  ],
+  "group_affiliation": [
+    "Justice League"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcf3"
+  },
+  "name": "Batman",
+  "powers": [
+    "intelligence",
+    "martial arts"
+  ],
+  "weaknesses": [
+    "no superpowers"
+  ],
+  "group_affiliation": [
+    "Justice League"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcf4"
+  },
+  "name": "Thor",
+  "powers": [
+    "thunder control",
+    "super strength"
+  ],
+  "weaknesses": [
+    "pride"
+  ],
+  "group_affiliation": [
+    "Avengers"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcf5"
+  },
+  "name": "Joker",
+  "powers": [
+    "chaos",
+    "manipulation"
+  ],
+  "weaknesses": [
+    "insanity"
+  ],
+  "group_affiliation": [
+    "Villains"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcf6"
+  },
+  "name": "Wonder Woman",
+  "powers": [
+    "strength",
+    "agility",
+    "lasso of truth"
+  ],
+  "weaknesses": [
+    "none"
+  ],
+  "group_affiliation": [
+    "Justice League"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcf7"
+  },
+  "name": "Loki",
+  "powers": [
+    "deception",
+    "magic"
+  ],
+  "weaknesses": [
+    "vanity"
+  ],
+  "group_affiliation": [
+    "Villains"
+  ]
+}]

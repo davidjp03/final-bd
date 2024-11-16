@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcfa"
+  },
+  "name": "Martillo de Thor",
+  "description": "El poderoso martillo Mjolnir.",
+  "availability": true
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcfb"
+  },
+  "name": "Escudo Legendario",
+  "description": "Un escudo indestructible.",
+  "availability": true
+}]

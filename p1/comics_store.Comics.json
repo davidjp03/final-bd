@@ -1,0 +1,182 @@
+[{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcfc"
+  },
+  "title": "Superman Origins",
+  "description": "Los inicios de Superman.",
+  "price": 12.99,
+  "category": "superhero",
+  "mortal_arms": [],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf2"
+    }
+  ],
+  "villagers": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcfd"
+  },
+  "title": "Batman Rises",
+  "description": "La ascensión de Batman.",
+  "price": 14.99,
+  "category": "superhero",
+  "mortal_arms": [],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf3"
+    }
+  ],
+  "villagers": []
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcfe"
+  },
+  "title": "Thor's Revenge",
+  "description": "La venganza de Thor.",
+  "price": 18,
+  "category": "superhero",
+  "mortal_arms": [
+    {
+      "$oid": "6738e28091d2f55789f9dcfa"
+    }
+  ],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf4"
+    }
+  ],
+  "villagers": []
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dcff"
+  },
+  "title": "The Killing Joke",
+  "description": "El Joker en su forma más oscura.",
+  "price": 25,
+  "category": "villain",
+  "mortal_arms": [],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf5"
+    }
+  ],
+  "villagers": []
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd00"
+  },
+  "title": "Wonder Woman's Quest",
+  "description": "La misión de Wonder Woman.",
+  "price": 20,
+  "category": "superhero",
+  "mortal_arms": [],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf6"
+    }
+  ],
+  "villagers": []
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd01"
+  },
+  "title": "Justice League United",
+  "description": "La Liga de la Justicia se une.",
+  "price": 30,
+  "category": "superhero",
+  "mortal_arms": [
+    {
+      "$oid": "6738e28091d2f55789f9dcfb"
+    }
+  ],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf2"
+    },
+    {
+      "$oid": "6738e28091d2f55789f9dcf3"
+    }
+  ],
+  "villagers": []
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd02"
+  },
+  "title": "Loki's Trickery",
+  "description": "Las maquinaciones de Loki.",
+  "price": 15.5,
+  "category": "villain",
+  "mortal_arms": [],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf7"
+    }
+  ],
+  "villagers": []
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd03"
+  },
+  "title": "Thor vs Loki",
+  "description": "El enfrentamiento final.",
+  "price": 22,
+  "category": "superhero",
+  "mortal_arms": [
+    {
+      "$oid": "6738e28091d2f55789f9dcfa"
+    }
+  ],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf4"
+    },
+    {
+      "$oid": "6738e28091d2f55789f9dcf7"
+    }
+  ],
+  "villagers": []
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd04"
+  },
+  "title": "Joker's Chaos",
+  "description": "El caos del Joker.",
+  "price": 10.99,
+  "category": "villain",
+  "mortal_arms": [],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf5"
+    }
+  ],
+  "villagers": []
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd05"
+  },
+  "title": "Superman Returns",
+  "description": "El regreso de Superman.",
+  "price": 19.99,
+  "category": "superhero",
+  "mortal_arms": [],
+  "characters": [
+    {
+      "$oid": "6738e28091d2f55789f9dcf2"
+    }
+  ],
+  "villagers": []
+}]

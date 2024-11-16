@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd06"
+  },
+  "name": "Ana López",
+  "birthday": "1990-05-10",
+  "email": "ana@example.com",
+  "purchase_history": [
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dcfc"
+      },
+      "purchase_date": "2024-11-01",
+      "total_amount": 12.99
+    },
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dcfd"
+      },
+      "purchase_date": "2024-11-02",
+      "total_amount": 14.99
+    },
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dcfe"
+      },
+      "purchase_date": "2024-11-03",
+      "total_amount": 18
+    },
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dcff"
+      },
+      "purchase_date": "2024-11-04",
+      "total_amount": 25
+    },
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dd00"
+      },
+      "purchase_date": "2024-11-05",
+      "total_amount": 20
+    },
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dd01"
+      },
+      "purchase_date": "2024-11-06",
+      "total_amount": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd07"
+  },
+  "name": "Carlos Pérez",
+  "birthday": "1985-11-22",
+  "email": "carlos@example.com",
+  "purchase_history": [
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dd02"
+      },
+      "purchase_date": "2024-11-07",
+      "total_amount": 15.5
+    },
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dd03"
+      },
+      "purchase_date": "2024-11-08",
+      "total_amount": 22
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6738e28091d2f55789f9dd08"
+  },
+  "name": "Luis Gómez",
+  "birthday": "1970-09-14",
+  "email": "luis@example.com",
+  "purchase_history": [
+    {
+      "comic_id": {
+        "$oid": "6738e28091d2f55789f9dd04"
+      },
+      "purchase_date": "2024-11-09",
+      "total_amount": 10.99
+    }
+  ]
+}]
