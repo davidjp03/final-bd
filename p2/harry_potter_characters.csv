@@ -1,0 +1,438 @@
+name,house,role
+Harry Potter,Gryffindor,Student
+Hermione Granger,Gryffindor,Student
+Ron Weasley,Gryffindor,Student
+Draco Malfoy,Slytherin,Student
+Minerva McGonagall,Gryffindor,Staff
+Cedric Diggory,Hufflepuff,Student
+Cho Chang,Ravenclaw,Student
+Severus Snape,Slytherin,Staff
+Rubeus Hagrid,Gryffindor,Staff
+Neville Longbottom,Gryffindor,Student
+Luna Lovegood,Ravenclaw,Student
+Ginny Weasley,Gryffindor,Student
+Sirius Black,Gryffindor,Unknown
+Remus Lupin,Gryffindor,Staff
+Arthur Weasley,Gryffindor,Unknown
+Bellatrix Lestrange,Slytherin,Unknown
+Lord Voldemort,Slytherin,Unknown
+Horace Slughorn,Slytherin,Staff
+Kingsley Shacklebolt,,Unknown
+Dolores Umbridge,Slytherin,Staff
+Lucius Malfoy,Slytherin,Unknown
+Vincent Crabbe,Slytherin,Student
+Mr Crabbe,,Unknown
+Gregory Goyle,Slytherin,Student
+Mr Goyle,,Student
+Mrs Norris,,Staff
+Argus Filch,,Staff
+Vernon Dursley,,Unknown
+Petunia Dursley,,Unknown
+Dudley Dursley,,Unknown
+Boa constrictor,,Unknown
+Lily Potter,Gryffindor,Unknown
+James Potter,Gryffindor,Unknown
+Albus Dumbledore,Gryffindor,Staff
+Fawkes,,Unknown
+Madam Pomfrey,,Staff
+Mrs Figg,,Unknown
+Marge Dursley,,Unknown
+Ripper,,Unknown
+Yvonne,,Unknown
+Piers Polkiss,,Unknown
+Dennis,,Unknown
+Malcolm,,Unknown
+Gordon,,Unknown
+Miranda Gaushawk,,Unknown
+Bathilda Bagshot,,Unknown
+Adalbert Waffling,,Unknown
+Emeric Switch,,Unknown
+Phyllida Spore,,Unknown
+Arsenius Jigger,,Unknown
+Newt Scamander,Hufflepuff,Unknown
+Quentin Trimble,,Unknown
+Tom,,Unknown
+Doris Crockford,,Unknown
+Quirinus Quirrel,,Staff
+Griphook,,Unknown
+Madam Malkin,,Unknown
+Vindictus Viridian,,Unknown
+Garrick Ollivander,,Unknown
+Hedwig,,Unknown
+Trevor,,Unknown
+Hermes,,Unknown
+Errol,,Unknown
+Pigwidgeon,,Unknown
+Molly Weasley,Gryffindor,Unknown
+Percy Weasley,Gryffindor,Student
+Fred Weasley,Gryffindor,Student
+George Weasley,Gryffindor,Student
+Lee Jordan,Gryffindor,Student
+Bill Weasley,Gryffindor,Unknown
+Charlie Weasley,Gryffindor,Unknown
+Fat Friar,Hufflepuff,Unknown
+Peeves,,Unknown
+Hannah Abbott,Hufflepuff,Student
+Susan Bones,Hufflepuff,Student
+Terry Boot,Ravenclaw,Student
+Mandy Brocklehurst,Ravenclaw,Student
+Lavender Brown,Gryffindor,Student
+Millicent Bulstrode,Slytherin,Student
+Justin Finch-Fletchley,Hufflepuff,Student
+Seamus Finnigan,Gryffindor,Student
+Mrs Finnigan,,Unknown
+Mr Finnigan,,Unknown
+Morag MacDougal,,Student
+Lily Moon,,Student
+Theodore Nott,Slytherin,Student
+Mr Nott,,Student
+Pansy Parkinson,Slytherin,Student
+Parvati Patil,Gryffindor,Student
+Padma Patil,Ravenclaw,Student
+Sally-Anne Perks,,Student
+Lisa Turpin,Ravenclaw,Student
+Blaise Zabini,Slytherin,Student
+Nearly Headless Nick,Gryffindor,Unknown
+Bloody Baron,Slytherin,Unknown
+The Wailing Widow,,Unknown
+Fat Lady,,Unknown
+Pomona Sprout,Hufflepuff,Staff
+Cuthbert Binns,,Staff
+Emeric the Evil,,Unknown
+Uric the Oddball,,Unknown
+Filius Flitwick,Ravenclaw,Staff
+Madam Hooch,,Staff
+Oliver Wood,,Student
+Gregory the Smarmy,,Unknown
+Wizard Baruffio,,Unknown
+Angelina Johnson,Gryffindor,Student
+Marcus Flint,Slytherin,Student
+Alicia Spinet,Gryffindor,Student
+Katie Bell,Gryffindor,Student
+Adrian Pucey,Slytherin,Student
+Miles Bletchley,Slytherin,Student
+Terence Higgs,Slytherin,Student
+Fang,,Unknown
+Fluffy,,Unknown
+Nicolas Flamel,,Unknown
+Gellert Grindelwald,,Unknown
+Norberta,,Unknown
+Ronan,,Unknown
+Bane,,Unknown
+Firenze,,Staff
+The Giant Squid,,Unknown
+Murcus,,Unknown
+Elfrick the Eager,,Unknown
+Perenelle Flamel,,Unknown
+Bertie Bott,,Unknown
+Dobby,,Unknown
+Kreacher,,Unknown
+Mr Mason,,Unknown
+Mrs Mason,,Unknown
+Perkins,,Unknown
+Celestina Warbeck,Gryffindor,Unknown
+Gilderoy Lockhart,,Staff
+The Basilisk,,Unknown
+Mundungus Fletcher,,Unknown
+Mr Borgin,,Unknown
+Mr Granger,,Unknown
+Mrs Granger,,Unknown
+Dr Filibuster,,Unknown
+Colin Creevey,Gryffindor,Student
+Gladys Gudgeon,,Unknown
+Veronica Smethley,,Unknown
+Patrick Delaney-Podmore,,Unknown
+Z. Nettles,,Unknown
+D.J. Prod,,Unknown
+Elsie Prod,,Unknown
+Moaning Myrtle,Ravenclaw,Unknown
+Godric Gryffindor,,Unknown
+Rowena Ravenclaw,,Unknown
+Helga Hufflepuff,,Unknown
+Salazar Slytherin,,Unknown
+Madame Pince,,Staff
+Milicent Bullstroude,Slytherin,Student
+Ernie Macmillan,Hufflepuff,Student
+Armando Dippet,,Unknown
+Penelope Clearwater,Ravenclaw,Student
+Cornelius Fudge,,Unknown
+Oblansk,,Unknown
+Aragog,,Unknown
+Mosag,,Unknown
+Stanley Shunpike,,Unknown
+Ernest Prang,,Unknown
+Madam Marsh,,Unknown
+Florean Fortescue,,Unknown
+Sir Cadogan,,Unknown
+Sybill Trelawney,,Staff
+Buckbeak,,Unknown
+Peter Pettigrew,Gryffindor,Unknown
+Crookshanks,,Unknown
+The Trolley Witch,,Unknown
+The Sorting Hat,,Unknown
+Madam Rosmerta,,Unknown
+Derek,,Student
+Septima Vector,,Staff
+Cassius Warrington,Slytherin,Student
+Graham Montague,Slytherin,Student
+Peregrine Derrick,Slytherin,Student
+Lucian Bole,Slytherin,Student
+Walden Macnair,Slytherin,Unknown
+Franc Bryce,,Unknown
+Dot,,Unknown
+Bertha Jorkins,,Unknown
+Barty Crouch,,Unknown
+Barty Crouch Junior,,Unknown
+Mrs Crouch,,Unknown
+Ludo Bagman,,Unknown
+Amos Diggory,,Unknown
+Mrs Diggory,,Unknown
+Mr Roberts,,Unknown
+Mrs Roberts,,Unknown
+Kevin,,Unknown
+Mr Payne,,Unknown
+Basil,,Unknown
+Archie Aymslowe,,Unknown
+Cuthbert Mockridge,,Unknown
+Gilbert Wimple,,Unknown
+Arnold Peasegood,,Unknown
+Broderick Bode,,Unknown
+Saul Croaker,,Unknown
+Ali Bashir,,Unknown
+Victor Krum,,Unknown
+Winky,,Unknown
+Narcissa Malfoy,,Unknown
+Vasily Dimitrov,,Unknown
+Clara Ivanova,,Unknown
+Lev Zograf,,Unknown
+Alexei Levski,,Unknown
+Pyotr Vulchanov,,Unknown
+Ivan Volkov,,Unknown
+Connolly,,Unknown
+Barry Ryan,,Unknown
+Troy,,Unknown
+Mullet,,Unknown
+Moran,,Unknown
+Quigley,,Unknown
+Aidan Lynch,,Unknown
+Hassan Mostafa,,Unknown
+Dennis Creevey,,Student
+Aurora Sinistra,,Staff
+Stewart Ackerley,Ravenclaw,Student
+Malcolm Baddock,Slytherin,Student
+Eleanor Branstone,Hufflepuff,Student
+Owen Cauldwell,Hufflepuff,Student
+Emma Dobbs,,Student
+Laura Madley,Hufflepuff,Student
+Natalie McDonald,Gryffindor,Student
+Graham Pritchard,Slytherin,Student
+Orla Quirke,Ravenclaw,Student
+Kevin Whitby,Hufflepuff,Student
+Eloise Midgen,Gryffindor,Student
+Alastor Moody,,Staff
+Madame Maxime,,Unknown
+Igor Karkaroff,,Unknown
+Poliakoff,,Unknown
+Fawcett,Ravenclaw,Student
+Summers,Hufflepuff,Student
+Fleur Delacour,,Unknown
+Gregorovic,,Unknown
+Rita Skeeter,,Unknown
+Stebbins,Ravenclaw,Student
+Wilhelmina Grubbly-Plank,,Staff
+Bozo,,Unknown
+Evan Rosier,Slytherin,Unknown
+Wilkes,Slytherin,Unknown
+Avery,Slytherin,Unknown
+Antonin Dolohov,,Unknown
+Travers,,Unknown
+Marlene McKinnon,,Unknown
+Mulciber,Slytherin,Unknown
+Augustus Rookwood,,Unknown
+Frank Longbottom,,Unknown
+Alice Longbottom,,Unknown
+Augusta Longbottom,,Unknown
+Violet,,Unknown
+Apollyon Pringle,,Unknown
+Ogg,,Unknown
+Mafalda Hopkirk,,Unknown
+Nymphadora Tonks,Hufflepuff,Unknown
+Elphias Doge,,Unknown
+Dedalus Diggle,,Unknown
+Sturgis Podmore,,Unknown
+Hestia Jones,,Unknown
+Ragnok,,Unknown
+Alphard Black,Slytherin,Unknown
+Regulus Black,Slytherin,Unknown
+Phineas Nigelus Black,Slytherin,Unknown
+Araminta Meliflua Black,Slytherin,Unknown
+Elladora Black,,Unknown
+Mrs Black,,Unknown
+Andromeda Tonks,Slytherin,Unknown
+Ted Tonks,,Unknown
+Rodolphus Lestrange,Slytherin,Unknown
+Rabastan Lestrange,Slytherin,Unknown
+Eric Munch,,Unknown
+Bob,,Unknown
+Bengie Fenwick,,Unknown
+Edgar Bones,,Unknown
+Amelia Bones,,Unknown
+Caradoc Dearborn,,Unknown
+Gideon Prewett,,Unknown
+Fabian Prewett,,Unknown
+Aberforth Dumbledore,Gryffindor,Unknown
+Dorcas Meadowes,,Unknown
+Algie Longbottom,,Unknown
+Anthony Goldstein,Ravenclaw,Student
+Doris Purkiss,,Unknown
+Euan Abercrombie,Gryffindor,Student
+Rose Zeller,Hufflepuff,Student
+Patricia Stimpson,,Student
+Kenneth Towler,Gryffindor,Student
+Vicky Frobisher,Gryffindor,Student
+Geoffrey Hooper,Gryffindor,Student
+Cassandra Trelawney,,Unknown
+Michael Corner,Ravenclaw,Student
+Zacharias Smith,Ravenclaw,Student
+Barnabas the Barmy,,Student
+Karkus,,Unknown
+Golgomath,,Unknown
+Fridwulfa,,Unknown
+Andrew Kirke,Gryffindor,Student
+Jack Sloper,Gryffindor,Student
+Everard,,Unknown
+Dilys Derwent,,Unknown
+Hippocrates Smethwyck,,Unknown
+Augustus Pye,,Unknown
+Urquhart Rackharrow,,Unknown
+Willy Widdershins,,Unknown
+Agnes,,Unknown
+Miriam Strout,,Unknown
+Madam Puddifoot,,Unknown
+Summerby,Hufflepuff,Student
+Marietta Edgecombe,Ravenclaw,Student
+Madam Edgecombe,,Unknown
+John Dawlish,,Unknown
+Williamson,,Unknown
+Bradley,Ravenclaw,Student
+Roger Davies,Ravenclaw,Student
+Grawp,,Unknown
+Griselda Marchbanks,,Unknown
+Eddie Carmichael,Ravenclaw,Student
+Daphne Greengrass,Slytherin,Student
+Tofty,,Unknown
+Tiberius Ogden,,Unknown
+Pierre Bonaccord,,Unknown
+Stubby Boardman,,Unknown
+Magorian,,Unknown
+Emmeline Vance,,Unknown
+Herbert Chorley,,Unknown
+The British Prime Minister,,Unknown
+Ulick Gamp,,Unknown
+Rufus Scrimgeour,,Unknown
+Corban Yaxley,,Unknown
+Fenrir Greyback,,Unknown
+Dirk Cresswell,,Unknown
+Barnabas Cuffe,,Unknown
+Ambrosius Flume,,Unknown
+Gwenog Jones,,Unknown
+Arkie Philpott,,Unknown
+Verity,,Unknown
+Arnold,,Unknown
+Romilda Vane,Gryffindor,Student
+Cormac McLaggen,Gryffindor,Student
+Marcus Belby,Ravenclaw,Student
+Damocles Belby,,Unknown
+Tiberius,,Student
+Bertie Higgs,,Unknown
+Proudfoot,,Unknown
+Savage,,Unknown
+Humphrey Belcher,,Unknown
+Bob Ogden,,Unknown
+Morfin Gaunt,,Unknown
+Marvolo Gaunt,,Unknown
+Merope Gaunt,,Unknown
+Cecilia,,Unknown
+Tom Riddle,,Unknown
+Demelza Robins,Gryffindor,Student
+Jimmy Peakes,Gryffindor,Student
+Ritchie Coote,Gryffindor,Student
+Melinda Bobbin,,Student
+Leanne,Hufflepuff,Student
+Caractacus Burke,,Unknown
+Billy Stubbs,,Unknown
+Amy Benson,,Unknown
+Dennis Bishop,,Unknown
+Mrs Cole,,Unknown
+Eric Whalley,,Unknown
+Vaisey,Slytherin,Student
+Harper,Slytherin,Student
+Urquhart,Slytherin,Student
+Eldred Worple,,Unknown
+Sanguini,,Unknown
+Gawain Robards,,Unknown
+Fergus,,Unknown
+Wilkie Twycross,,Unknown
+Cadwallader,Hufflepuff,Student
+Galatea Merrythought,,Staff
+Hepzibah Smith,,Unknown
+Hokey,,Unknown
+Octavius Pepper,,Unknown
+Bertram Aubrey,,Unknown
+Eileen Prince,,Unknown
+Amycus Carrow,Slytherin,Unknown
+Alecto Carrow,Slytherin,Unknown
+Gibbon,,Unknown
+Tobias Snape,,Unknown
+Pius Thicknesse,,Unknown
+Wakanda,,Unknown
+Charity Burbage,,Staff
+Percival Dumbledore,,Unknown
+Kendra Dumbledore,,Unknown
+Ariana Dumbledore,,Unknown
+Betty Braithwaite,,Unknown
+Apolline Delacour,,Unknown
+Gabrielle Delacour,,Unknown
+Monsieur Delacour,,Unknown
+Dragomir Gorgovitch,,Unknown
+Xenophilius Lovegood,Ravenclaw,Unknown
+Pandora Lovegood,Ravenclaw,Unknown
+Muriel,,Unknown
+Bilius,,Unknown
+Thorfinn Rowle,,Unknown
+Reg Cattermole,,Unknown
+Albert Runcorn,,Unknown
+Arkie Alderton,,Unknown
+Mary Cattermole,,Unknown
+Maisie Cattermole,,Unknown
+Ellie Cattermole,,Unknown
+Alfred Cattermole,,Unknown
+Gornuk,,Unknown
+Bowman Wright,,Unknown
+Ivor Dillonsby,,Unknown
+Enid Smeek,,Unknown
+Egbert the Egregious,,Unknown
+Godelot,,Unknown
+Hereward,,Unknown
+Loxias,,Unknown
+Barnabas Deverill,,Unknown
+Arcus,,Unknown
+Livius,,Unknown
+Antioch Peverell,,Unknown
+Cadmus Peverell,,Unknown
+Ignotus Peverell,,Unknown
+Selwyn,,Unknown
+Scabior,Slytherin,Unknown
+Ragnuk the First,,Unknown
+Ted Lupin,Hufflepuff,Unknown
+Marius,,Unknown
+Bogrod,,Unknown
+The Grey Lady,,Unknown
+Dexter Fortescue,,Unknown
+Lily Potter,Gryffindor,Unknown
+James Potter,Gryffindor,Student
+Albus Severus Potter,Slytherin,Student
+Rose Weasley,Gryffindor,Student
+Hugo Weasley,,Student
+Scorpius Malfoy,Slytherin,Student
+Victoire Weasley,,Student
